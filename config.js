@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'news',
+			icon: 'newspaper',
 			id: '1',
 			links: [
 				{
@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'heart',
+			icon: 'brain',
 			id: '2',
 			links: [
 				{
@@ -169,11 +169,11 @@ const CONFIG = {
 					link: 'https://www.wikipidia.org',
 				},
 				{
-					name: '100 Search engines',
+					name: '100 search engines',
 					link: 'https://www.100searchengines.com/',
 				},
 				{
-					name: 'Info Please',
+					name: 'Info please',
 					link: 'https://www.infoplease.com/',
 				},
 			],
