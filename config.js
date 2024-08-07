@@ -152,7 +152,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Wired',
-					link: 'https://www.wired.com/,
+					link: 'https://www.wired.com/',
 				},
 			],
 		},
